@@ -1,6 +1,7 @@
 
+them vao đe xem git add -p
+
 chu h thu
-=======
 chu hieu 2 nay lam, nen thu
 tao them dong de cho xung dot ne
 
@@ -8,3 +9,6 @@ het xung comflict
 
 
 them vo tets continue
+chu hieu 2 nay lam, nen thu
+
+ok
